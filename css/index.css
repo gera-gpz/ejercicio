@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#contenedor {
+  width: 60%;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.7em;
+  background-color: aliceblue;
+}
+#contenedor h1 {
+  text-justify: distribute;
+}
+#contenedor p {
+  text-justify: inter-word;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+}
